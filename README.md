@@ -23,7 +23,8 @@ Unique mobile application allows students in one-click:
 
 ## How it works:
 
-![image](https://user-images.githubusercontent.com/60985658/198849619-64d385b8-f37a-4608-ac23-41afb797b543.png)
+![image](https://user-images.githubusercontent.com/60985658/198849847-4c31597a-bc29-4ef1-b5b2-37f0b756a919.png)
+
 
 
 
